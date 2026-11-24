@@ -1,8 +1,8 @@
-# Mentes en acción
+# Codigo en el Laberinto | Pensamiento computacional
 
 Plataforma de aprendizaje de pensamiento computacional para estudiantes de grado noveno. La ruta se organiza en cuatro unidades e integra actividades desconectadas, retos interactivos, un miniproyecto y juegos de MakeCode Arcade y Scratch.
 
-**Plataforma publicada:** <https://gabomac911.github.io/mentes-en-accion/>
+**Plataforma publicada:** <https://gabomac911.github.io/codigo-en-el-laberinto/>
 
 ## Requisitos
 
@@ -24,7 +24,7 @@ Abre `http://localhost:4200/` en el navegador.
 npm run build
 ```
 
-La salida estática queda en `dist/PlataformaPC/browser/` y puede servirse desde un hosting estático. La aplicación guarda el avance y el miniproyecto en el almacenamiento local del navegador.
+La salida estática queda en `dist/codigo-en-el-laberinto/browser/` y puede servirse desde un hosting estático. La aplicación guarda el avance y el miniproyecto en el almacenamiento local del navegador.
 
 ## Publicación en GitHub Pages
 

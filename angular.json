@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "PlataformaPC": {
+    "codigo-en-el-laberinto": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -64,10 +64,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "PlataformaPC:build:production"
+              "buildTarget": "codigo-en-el-laberinto:build:production"
             },
             "development": {
-              "buildTarget": "PlataformaPC:build:development"
+              "buildTarget": "codigo-en-el-laberinto:build:development"
             }
           },
           "defaultConfiguration": "development"

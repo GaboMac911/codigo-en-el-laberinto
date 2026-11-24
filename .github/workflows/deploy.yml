@@ -34,11 +34,11 @@ jobs:
       - name: Build static site
         run: npm run build -- --base-href "/${GITHUB_REPOSITORY#*/}/"
       - name: Keep assets visible to GitHub Pages
-        run: touch dist/PlataformaPC/browser/.nojekyll
+        run: touch dist/codigo-en-el-laberinto/browser/.nojekyll
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/PlataformaPC/browser
+          path: dist/codigo-en-el-laberinto/browser
 
   deploy:
     environment:
