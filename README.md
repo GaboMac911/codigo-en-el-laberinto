@@ -2,6 +2,8 @@
 
 Plataforma de aprendizaje de pensamiento computacional para estudiantes de grado noveno. La ruta se organiza en cuatro unidades e integra actividades desconectadas, retos interactivos, un miniproyecto y juegos de MakeCode Arcade y Scratch.
 
+**Plataforma publicada:** <https://gabomac911.github.io/mentes-en-accion/>
+
 ## Requisitos
 
 - Node.js 20.19 o superior
@@ -26,7 +28,7 @@ La salida estática queda en `dist/PlataformaPC/browser/` y puede servirse desde
 
 ## Publicación en GitHub Pages
 
-El flujo de GitHub Actions incluido compila y publica automáticamente el sitio cuando hay un push a `main`. En GitHub, abre **Settings → Pages** y selecciona **GitHub Actions** como fuente de publicación. La URL del sitio aparecerá en esa sección cuando termine el primer despliegue.
+El flujo de GitHub Actions incluido compila y publica automáticamente el sitio cuando hay un push a `main`. GitHub Pages usa **GitHub Actions** como fuente de publicación.
 
 ## Material pedagógico
 
